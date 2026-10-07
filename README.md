@@ -6,7 +6,7 @@
     <a href="https://github.com/Mmrknight123/Xraynova-APK/releases/latest"><img src="https://img.shields.io/github/v/release/Mmrknight123/Xraynova-APK?label=version&color=7c3aed" alt="version"/></a>
     <img src="https://img.shields.io/github/downloads/Mmrknight123/Xraynova-APK/total?label=downloads&color=success" alt="downloads"/>
     <img src="https://img.shields.io/github/release-date/Mmrknight123/Xraynova-APK?label=released" alt="released"/>
-    <img src="https://img.shields.io/badge/platform-Android-3ddc84?logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white" alt="Android 7.0+"/>
     <a href="https://t.me/Raiv2mmr"><img src="https://img.shields.io/badge/telegram-Raiv2mmr-26A5E4?logo=telegram&logoColor=white" alt="Telegram"/></a>
     <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"/>
   </p>
@@ -39,6 +39,21 @@
 * 🔄 **آپدیت بی‌دردسر:** نسخه‌های بعدی روی همین نسخه نصب می‌شوند، بدون حذف اپ و بدون پاک شدن کانفیگ‌ها
 * ✅ **قابل راستی‌آزمایی:** هر ریلیز همراه `SHA256SUMS.txt` منتشر می‌شود
 
+## 📱 نمایی از برنامه
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="assets/screenshots/home.png" width="250" alt="خانه"/><br/><b>🏠 خانه</b></td>
+      <td align="center"><img src="assets/screenshots/configs.png" width="250" alt="پیکربندی‌ها"/><br/><b>📋 پیکربندی‌ها</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="assets/screenshots/settings.png" width="250" alt="تنظیمات"/><br/><b>⚙️ تنظیمات</b></td>
+      <td align="center"><img src="assets/screenshots/split.png" width="250" alt="تونل تفکیکی"/><br/><b>🔀 تونل تفکیکی</b></td>
+    </tr>
+  </table>
+</div>
+
 ## 📦 نصب
 
 ۱. فایل APK را دانلود کنید.
@@ -59,6 +74,36 @@ sha256sum -c SHA256SUMS.txt
 
 * [فهرست کامل نسخه‌ها](https://github.com/Mmrknight123/Xraynova-APK/releases)
 * آخرین بیلد: [مشاهده در گیت‌هاب](https://github.com/Mmrknight123/Xraynova/actions/runs/37629657601)
+
+## ❓ سوالات پرتکرار
+
+<details>
+<summary><b>با نصب نسخه‌ی جدید، کانفیگ‌ها و اشتراک‌هایم پاک می‌شود؟</b></summary>
+
+نه. همه‌ی نسخه‌ها با **همان کلید امضا** منتشر می‌شوند، پس نسخه‌ی جدید دقیقاً روی قبلی آپدیت می‌شود؛ کانفیگ‌ها، اشتراک‌ها و تنظیمات سر جایشان می‌مانند. فقط کافی است APK جدید را نصب کنید.
+
+</details>
+
+<details>
+<summary><b>کدام فایل را دانلود کنم؟</b></summary>
+
+در ۹۹٪ موارد **`arm64-v8a`** — مال تقریباً همه‌ی گوشی‌های چند سال اخیر است. اگر گوشی خیلی قدیمی (۳۲بیتی) دارید `armeabi-v7a`، و اگر شبیه‌ساز/کروم‌بوک اینتلی دارید نسخه‌ی `x86_64` را بردارید.
+
+</details>
+
+<details>
+<summary><b>اندروید اجازه‌ی نصب نمی‌دهد («نصب از منابع ناشناس»)؟</b></summary>
+
+طبیعی است؛ چون اپ از گوگل‌پلی نصب نمی‌شود. در همان پیام هشدار، اجازه را برای مرورگر/فایل‌منیجر فعال کنید و دوباره فایل را باز کنید.
+
+</details>
+
+<details>
+<summary><b>نسخه‌ی iOS / ویندوز / مک هم هست؟</b></summary>
+
+فعلاً فقط **اندروید (۷ به بالا)**. اگر پلتفرم دیگری اضافه شد، همین‌جا اعلام می‌شود.
+
+</details>
 
 ## 📄 لایسنس و سورس
 
