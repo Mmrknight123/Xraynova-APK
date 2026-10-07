@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/logo.png" width="150" alt="RayNova X"/>
+  <img src="assets/cover.png" alt="RayNova X 1.0.177"/>
   <h1>⚡ RayNova X — دانلود</h1>
   <p><b>کلاینت اندروید فارسی برای Xray • sing-box • Psiphon</b></p>
   <p>
-    <a href="https://github.com/Mmrknight123/Xraynova-APK/releases/latest"><img src="https://img.shields.io/github/v/release/Mmrknight123/Xraynova-APK?label=version&color=7c3aed" alt="version"/></a>
+    <a href="https://github.com/Mmrknight123/Xraynova-APK/releases/latest"><img src="https://img.shields.io/github/v/release/Mmrknight123/Xraynova-APK?label=version&color=8b5cf6" alt="version"/></a>
     <img src="https://img.shields.io/github/downloads/Mmrknight123/Xraynova-APK/total?label=downloads&color=success" alt="downloads"/>
     <img src="https://img.shields.io/github/release-date/Mmrknight123/Xraynova-APK?label=released" alt="released"/>
     <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white" alt="Android 7.0+"/>
