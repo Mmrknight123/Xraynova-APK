@@ -1,8 +1,19 @@
-# RayNova X — دانلود
+<div align="center">
+  <img src="assets/logo.png" width="150" alt="RayNova X"/>
+  <h1>⚡ RayNova X — دانلود</h1>
+  <p><b>کلاینت اندروید فارسی برای Xray • sing-box • Psiphon</b></p>
+  <p>
+    <a href="https://github.com/Mmrknight123/Xraynova-APK/releases/latest"><img src="https://img.shields.io/github/v/release/Mmrknight123/Xraynova-APK?label=version&color=7c3aed" alt="version"/></a>
+    <img src="https://img.shields.io/github/downloads/Mmrknight123/Xraynova-APK/total?label=downloads&color=success" alt="downloads"/>
+    <img src="https://img.shields.io/github/release-date/Mmrknight123/Xraynova-APK?label=released" alt="released"/>
+    <img src="https://img.shields.io/badge/platform-Android-3ddc84?logo=android&logoColor=white" alt="Android"/>
+    <a href="https://t.me/Raiv2mmr"><img src="https://img.shields.io/badge/telegram-Raiv2mmr-26A5E4?logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"/>
+  </p>
+  <p><b>آخرین نسخه: <code>1.0.177</code></b> (versionCode <code>10198</code>) · منتشرشده در 2026-10-07</p>
+</div>
 
 <div dir="rtl">
-
-**آخرین نسخه: `1.0.177` (versionCode `10198`)** · منتشرشده در 2026-10-07
 
 سورس RayNova X خصوصی است؛ این صفحه فقط برای **دانلود نسخه‌های ساخته‌شده** است.
 
@@ -10,14 +21,23 @@
 
 | فایل | مناسب برای | لینک همیشگی (همیشه آخرین نسخه) |
 | --- | --- | --- |
-| **arm64-v8a** (پیشنهادی) | تقریباً همه‌ی گوشی‌ها و تبلت‌های امروزی | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-arm64-v8a.apk) |
-| armeabi-v7a | گوشی‌های ۳۲بیتی قدیمی | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-armeabi-v7a.apk) |
-| x86_64 | شبیه‌سازها و کروم‌بوک‌های اینتلی | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-x86_64.apk) |
-| x86 | شبیه‌سازهای ۳۲بیتی | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-x86.apk) |
-| universal | همه‌ی معماری‌ها در یک فایل (حجیم) | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-universal.apk) |
-| SHA256SUMS.txt | بررسی سلامت فایل‌ها | [دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/SHA256SUMS.txt) |
+| ⭐ **arm64-v8a** (پیشنهادی) | تقریباً همه‌ی گوشی‌ها و تبلت‌های امروزی | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-arm64-v8a.apk) |
+| armeabi-v7a | گوشی‌های ۳۲بیتی قدیمی | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-armeabi-v7a.apk) |
+| x86_64 | شبیه‌سازها و کروم‌بوک‌های اینتلی | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-x86_64.apk) |
+| x86 | شبیه‌سازهای ۳۲بیتی | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-x86.apk) |
+| universal | همه‌ی معماری‌ها در یک فایل (حجیم) | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/RayNovaX-universal.apk) |
+| SHA256SUMS.txt | بررسی سلامت فایل‌ها | [⬇️ دانلود](https://github.com/Mmrknight123/Xraynova-APK/releases/latest/download/SHA256SUMS.txt) |
 
 > اگر معماری گوشی‌تان را نمی‌دانید، فایل **arm64-v8a** را بردارید؛ با احتمال بالا درست است.
+
+فایل‌های نسخه‌دار این نسخه (`RayNovaX_1.0.177_arm64-v8a.apk` و…) هم در [صفحه‌ی ریلیز](https://github.com/Mmrknight123/Xraynova-APK/releases/latest) هستند.
+
+## ✨ چرا RayNova X؟
+
+* 🚀 **سه هسته در یک اپ:** Xray + sing-box + Psiphon زنجیره‌ای برای عبور از فیلترینگ شدید
+* 🇮🇷 **رابط کاملاً فارسی و راست‌چین** با Material 3
+* 🔄 **آپدیت بی‌دردسر:** نسخه‌های بعدی روی همین نسخه نصب می‌شوند، بدون حذف اپ و بدون پاک شدن کانفیگ‌ها
+* ✅ **قابل راستی‌آزمایی:** هر ریلیز همراه `SHA256SUMS.txt` منتشر می‌شود
 
 ## 📦 نصب
 
@@ -26,20 +46,19 @@
 ۳. فایل را باز کنید و نصب را تأیید کنید.
 ۴. نسخه‌های بعدی با **همان کلید امضا** منتشر می‌شوند و روی همین نسخه به‌صورت آپدیت نصب می‌شوند؛ نیازی به حذف اپ نیست.
 
-## ✅ بررسی سلامت دانلود
-
-</div>
+<details>
+<summary>✅ بررسی سلامت دانلود (اختیاری ولی توصیه‌شده)</summary>
 
 ```bash
 sha256sum -c SHA256SUMS.txt
 ```
 
-<div dir="rtl">
+</details>
 
 ## 🗂 همه‌ی نسخه‌ها
 
 * [فهرست کامل نسخه‌ها](https://github.com/Mmrknight123/Xraynova-APK/releases)
-* آخرین بیلد: https://github.com/Mmrknight123/Xraynova/actions/runs/37629657601
+* آخرین بیلد: [مشاهده در گیت‌هاب](https://github.com/Mmrknight123/Xraynova/actions/runs/37629657601)
 
 ## 📄 لایسنس و سورس
 
@@ -49,4 +68,8 @@ RayNova X یک نسخه‌ی تغییر‌یافته از [v2rayNG](https://gith
 
 متن کامل لایسنس و لایسنس‌های اجزای ثالث (v2rayNG، Xray، sing-box، Psiphon، hev-socks5-tunnel، فونت وزیرمتن) همراه سورس درخواستی ارائه می‌شود.
 
+</div>
+
+<div align="center">
+  <sub>⚡ RayNova X · ساخته‌شده با 💜 برای اینترنت آزاد · Made with 💜 for a free internet</sub>
 </div>
