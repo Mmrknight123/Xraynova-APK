@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cover.png" alt="RayNova X 1.0.179"/>
+  <img src="assets/cover.png" alt="RayNova X 1.0.180"/>
   <h1>⚡ RayNova X — دانلود</h1>
   <p><b>کلاینت اندروید فارسی برای Xray • sing-box • Psiphon</b></p>
   <p>
@@ -10,7 +10,7 @@
     <a href="https://t.me/Raiv2mmr"><img src="https://img.shields.io/badge/telegram-Raiv2mmr-26A5E4?logo=telegram&logoColor=white" alt="Telegram"/></a>
     <img src="https://img.shields.io/badge/license-GPL--3.0-blue" alt="GPL-3.0"/>
   </p>
-  <p><b>آخرین نسخه: <code>1.0.179</code></b> (versionCode <code>10208</code>) · منتشرشده در 2026-10-14</p>
+  <p><b>آخرین نسخه: <code>1.0.180</code></b> (versionCode <code>10212</code>) · منتشرشده در 2026-10-23</p>
 </div>
 
 <div dir="rtl">
@@ -30,7 +30,7 @@
 
 > اگر معماری گوشی‌تان را نمی‌دانید، فایل **arm64-v8a** را بردارید؛ با احتمال بالا درست است.
 
-فایل‌های نسخه‌دار این نسخه (`RayNovaX_1.0.179_arm64-v8a.apk` و…) هم در [صفحه‌ی ریلیز](https://github.com/Mmrknight123/Xraynova-APK/releases/latest) هستند.
+فایل‌های نسخه‌دار این نسخه (`RayNovaX_1.0.180_arm64-v8a.apk` و…) هم در [صفحه‌ی ریلیز](https://github.com/Mmrknight123/Xraynova-APK/releases/latest) هستند.
 
 ## ✨ چرا RayNova X؟
 
@@ -73,7 +73,7 @@ sha256sum -c SHA256SUMS.txt
 ## 🗂 همه‌ی نسخه‌ها
 
 * [فهرست کامل نسخه‌ها](https://github.com/Mmrknight123/Xraynova-APK/releases)
-* آخرین بیلد: [مشاهده در گیت‌هاب](https://github.com/Mmrknight123/Xraynova/actions/runs/38512151553)
+* آخرین بیلد: [مشاهده در گیت‌هاب](https://github.com/Mmrknight123/Xraynova/actions/runs/40024329195)
 
 ## ❓ سوالات پرتکرار
 
